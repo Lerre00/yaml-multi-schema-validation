@@ -1,2 +1,6 @@
 car:
   manufacturer: volvo
+  model: v70
+  year: 2020
+  attributes: 0
+  reg: abc123
