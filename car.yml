@@ -2,5 +2,5 @@ car:
   manufacturer: volvo
   model: v70
   year: "2020"
-  attributes: []
+  attributes: [0]
   reg: abc123
