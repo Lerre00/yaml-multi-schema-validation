@@ -1,3 +1,8 @@
 person:
   name:
-    first_name: Stig
+    first_name: Thingy
+    last_name: Thing
+  age: 23
+  class: Javautvecklare
+  start_year: 2022
+  hobbies: [0]
