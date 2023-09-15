@@ -1,7 +1,7 @@
 schedule:
   program: java
   lessons:
-    - description: "javautveckling"
     - date: "2022-02-01"
-  year: 2023
+    - description: "javautveckling"
+  year: "2023"
 
