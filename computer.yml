@@ -2,12 +2,12 @@ computer:
   cpu:
     manufacturer: Intel
     cores: 8
-    frequency: 3.7GHz
+    frequency: 3.7
   memory:
     manufacturer: Corsair
-    size: 16GB
+    size: 16
     type: RAM
   disk:
     manufacturer: Samsung
-    size: 500GB
+    size: 500
     type: SSD
